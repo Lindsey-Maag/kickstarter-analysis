@@ -1,2 +1,10 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# Company A Kickstarter Analysis
+
+## Overview
+
+## Analysis and Challenges
+
+### Analysis
+
+
+## Results
