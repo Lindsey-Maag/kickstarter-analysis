@@ -6,9 +6,9 @@
 
 ### Analysis
 
-Parent Category Outcomes Chart
+Outcomes versus Goals Chart
 
-![Parent Category Outcomes](https://github.com/Lindsey-Maag/kickstarter-analysis/blob/main/Parent_Category_Outcomes_Chart.png)
+![Outcomes versus Goals](https://github.com/Lindsey-Maag/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 Outcomes Based on Launch Date Chart
 
