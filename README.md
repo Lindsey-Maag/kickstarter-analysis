@@ -6,5 +6,9 @@
 
 ### Analysis
 
+Parent Category Outcomes Chart
+![Parent Category Outcomes](https://github.com/Lindsey-Maag/kickstarter-analysis/blob/main/Parent_Category_Outcomes_Chart.png)
+
+
 
 ## Results
